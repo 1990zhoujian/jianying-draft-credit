@@ -1,0 +1,7 @@
+interface:
+  display_name: "Read/Edit Jianying Draft"
+  short_description: "Read and batch edit Jianying drafts."
+  default_prompt: "Use $read-jianying-draft to read or batch edit local Jianying draft_content.json files."
+
+policy:
+  allow_implicit_invocation: true
